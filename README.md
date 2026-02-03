@@ -1,118 +1,135 @@
-<!-- Header GIF -->
+<!-- ===== HERO ANIMATION ===== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Anantha%20Narayanan%20S%20V&fontAlignY=40&color=gradient&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hi, I'm Anantha 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&cursor=true&width=650&lines=Data+Analytics+Graduate+Student;Machine+Learning+%26+Applied+AI;Backend+Systems+Engineer;Building+Scalable+Data-Driven+Applications" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420"/>
 </p>
 
-
 <p align="center">
-  <b>Data Analytics • Machine Learning • Backend Systems</b><br>
-  Building reliable, data-driven & AI-powered applications
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Analytics+%7C+Machine+Learning+%7C+Backend+Systems;LLM+Pipelines+%7C+RAG+%7C+OCR;Designing+Production-Grade+AI+Systems;Turning+Raw+Data+Into+Intelligence" />
 </p>
 
 <p align="center">
   <a href="mailto:ananthasv.1407@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.icons8.com/fluency/48/gmail.png"/>
   </a>
   <a href="https://www.linkedin.com/in/ananthasv/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.icons8.com/fluency/48/linkedin.png"/>
+  </a>
+  <a href="https://github.com/Anantha1407">
+    <img src="https://img.icons8.com/fluency/48/github.png"/>
   </a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 WHO AM I (IN ONE SCREEN)
 
-I’m a **Data Analytics graduate student** with hands-on experience in  
-**machine learning, backend engineering, and data systems**.
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260"/>
+</p>
 
-I enjoy turning **unstructured data into production-ready intelligence**  
-using clean APIs, scalable pipelines, and applied AI.
+> I build **AI-powered, data-centric backend systems**  
+> that move from **unstructured chaos → structured intelligence**.
 
-> I prefer clarity over complexity and systems that scale without chaos.
+I focus on:
+- LLM-based retrieval systems  
+- OCR & document understanding  
+- Backend APIs & data pipelines  
+- Systems that scale cleanly and fail gracefully  
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ TECH I ACTUALLY USE
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,sql" />
+### 🧪 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,js&theme=dark"/>
 </p>
 
-### 🧰 Backend & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,express,react,firebase" />
+### 🧠 AI / ML
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,python&theme=dark"/>
 </p>
 
-### 🧠 Data & AI
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
+<p align="center">
+  🤖 Hugging Face • RAG • OCR • Embeddings • Pinecone
 </p>
 
-- Pandas • NumPy • Scikit-learn  
-- Hugging Face Transformers  
-- OCR • RAG pipelines • Vector embeddings (Pinecone)
+### ⚙️ Backend & Infra
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,express,react,firebase,docker&theme=dark"/>
+</p>
 
 ### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 SYSTEMS I’VE BUILT
 
-🧠 **LLM-based RAG System**  
-OCR → embeddings → question answering using Hugging Face & Pinecone
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="350"/>
+</p>
+
+🧠 **LLM-Based RAG Platform**  
+OCR → chunking → embeddings → semantic QA (Hugging Face + Pinecone)
 
 🏥 **Patient Management System**  
 Role-based access, billing, scheduling & reminders (Firebase + React)
 
-🔎 **LinkedIn Post Scraper**  
-Python scraper with date filters, JSON export & Streamlit UI
+🔎 **LinkedIn Intelligence Scraper**  
+Profile-based scraping, time filtering & analytics-ready exports
 
+🏆 **Salesforce Tournament Scheduler**  
+Apex-driven data modeling & venue optimization logic
 
 ---
 
-## 📚 Research & Publications
+## 📚 RESEARCH MODE
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="320"/>
+</p>
 
 📖 *Leveraging AI Technologies for Preventing and Detecting Sudden Cardiac Arrest and Death*  
-— **Co-author, Chapter 7**
+🧠 **Co-author — Chapter 7**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 LIVE GITHUB ENERGY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anantha1407&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anantha1407&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anantha1407&show_icons=true&theme=radical&hide_border=true" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anantha1407&theme=radical&hide_border=true" width="47%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anantha1407&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anantha1407&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-## 🌱 Currently Exploring
+## 🌌 CURRENTLY LEVELING UP
 
-- Vision-based LLMs for improved OCR
-- Evaluation strategies for RAG systems
-- Scalable backend architecture patterns
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
+</p>
+
+- Vision-based LLMs for OCR accuracy  
+- RAG evaluation & failure analysis  
+- Scalable backend system design  
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient"/>
 </p>
 
 <p align="center">
-  <em>Always learning. Always building.</em>
+  <b>⚡ Build systems that feel inevitable.</b>
 </p>
-
