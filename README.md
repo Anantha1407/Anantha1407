@@ -6,6 +6,11 @@
 <h1 align="center">Hi, I'm Anantha 👋</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Data+Analytics+Graduate+Student;Machine+Learning+%26+Applied+AI;Backend+Systems+Engineer;Building+Scalable+Data-Driven+Applications" />
+</p>
+
+
+<p align="center">
   <b>Data Analytics • Machine Learning • Backend Systems</b><br>
   Building reliable, data-driven & AI-powered applications
 </p>
