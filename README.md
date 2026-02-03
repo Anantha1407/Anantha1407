@@ -1,6 +1,6 @@
 <!-- ===== HERO ANIMATION ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Anantha%20Narayanan%20S%20V&fontAlignY=40&color=gradient&animation=fadeIn"/>
+  <img src="[https://capsule-render.vercel.app/api?type=waving&height=260&text=Anantha%20Narayanhttps://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Anantha%20Narayanan%20S%20V&textBg=false&animation=twinkling&reversal=true&fontColor=fffff&section=header)"/>
 </p>
 
 <p align="center">
