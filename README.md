@@ -1,6 +1,6 @@
 <!-- ===== HERO ANIMATION ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Anantha%20Narayanan%20S%20V&textBg=false&animation=twinkling&reversal=true&fontColor=fffff&section=header)"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Anantha%20Narayanan%20S%20V&textBg=false&animation=twinkling&reversal=true&fontColor=fffff&section=header"/>
 </p>
 
 <p align="center">
@@ -72,9 +72,6 @@ I focus on:
 
 ## 🚀 SYSTEMS I’VE BUILT
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="350"/>
-</p>
 
 🧠 **LLM-Based RAG Platform**  
 OCR → chunking → embeddings → semantic QA (Hugging Face + Pinecone)
@@ -127,7 +124,7 @@ Apex-driven data modeling & venue optimization logic
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&textBg=false&animation=twinkling&reversal=true&fontColor=fffff&section=footer"/>
 </p>
 
 <p align="center">
